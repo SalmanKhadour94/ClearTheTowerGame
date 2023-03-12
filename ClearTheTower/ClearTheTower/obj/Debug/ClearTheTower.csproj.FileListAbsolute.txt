@@ -1,0 +1,8 @@
+C:\Users\agnie\Desktop\Salman_Csharp\ClearTheTower\obj\Debug\ClearTheTower.csproj.AssemblyReference.cache
+C:\Users\agnie\Desktop\Salman_Csharp\ClearTheTower\obj\Debug\ClearTheTower.csproj.SuggestedBindingRedirects.cache
+C:\Users\agnie\Desktop\Salman_Csharp\ClearTheTower\obj\Debug\ClearTheTower.csproj.CoreCompileInputs.cache
+C:\Users\agnie\Desktop\Salman_Csharp\ClearTheTower\bin\Debug\ClearTheTower.exe.config
+C:\Users\agnie\Desktop\Salman_Csharp\ClearTheTower\bin\Debug\ClearTheTower.exe
+C:\Users\agnie\Desktop\Salman_Csharp\ClearTheTower\bin\Debug\ClearTheTower.pdb
+C:\Users\agnie\Desktop\Salman_Csharp\ClearTheTower\obj\Debug\ClearTheTower.exe
+C:\Users\agnie\Desktop\Salman_Csharp\ClearTheTower\obj\Debug\ClearTheTower.pdb
